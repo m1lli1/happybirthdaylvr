@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Annie!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 id="greeting">Oh my god, look who it is!</h1>
+        <button id="next-button">Next</button>
+        <div class="flowers-container"></div>
+        <div class="bouquet-container">
+            <img src="bouquet.png" alt="Bouquet">
+            <div class="envelope-container">
+                <img src="envelope.png" alt="Envelope">
+                <div class="note-container">
+                    <p id="note">Happy birthday to you, Annie, I literally love you so much, and you mean a lot to me. You are so cute, so hot, so daddy, so pretty, I literally love you so much, have a great birthday, happy birthday to you again.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
